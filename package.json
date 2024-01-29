@@ -1,0 +1,27 @@
+{
+  "name": "library-management-system-mern-stack",
+  "version": "1.0.0",
+  "description": "- I'm building a Library Management System using MERN Stack.\r - Currently, I'm working on its backend with `Node.js`, `Express.js`and `MongoDB`.\r - This Repo is Open for Collaborations and Contributions.\r - If you know react, you can contribute in building the frontend.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "library management system",
+    "library system backend",
+    "MERN stack",
+    "Node.js",
+    "Express.js",
+    "MongoDB"
+  ],
+  "author": "Subham Sahoo (https://github.com/realsubhamsahoo)",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.1.1"
+  }
+}
