@@ -1,8 +1,11 @@
 # Library Management System in MERN Stack
 
-Welcome to the Library Management System project! This system is built using the MERN (MongoDB, Express.js, React, Node.js) stack and is designed to manage books, authors, borrowers, and transactions in a library.
-<br>
-The repo is open for collaborations and contributions. As I'm presently focused on learning backend. The Frontend is on a Hold. If you know React, you can try building the frontend for the project.
+- Welcome to the Library Management System Backend Project!
+- This backend is designed to manage books, authors, borrowers, and transactions in a library. 
+- I've learnt backend so currently NodeJS, ExpressJS and MongoDB have been used.
+- The Frontend is on a Hold and I'll build it later as I learn.
+- The repo is open for collaborations and contributions.
+- If you know React, you can try building the frontend for the project.
 
 ## Table of Contents
 - [Features](#features)
